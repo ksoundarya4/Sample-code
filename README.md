@@ -1,2 +1,2 @@
 # Sample-code
-Sample code to lean github
+Sample code to learn github
